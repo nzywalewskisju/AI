@@ -7,4 +7,4 @@ The BFS explores all connected land cells by checking their neighbors within the
 Each BFS run corresponds to one complete island, so I incrementmy island counter every time a new BFS runs.
 
 ## Screenshot
-![LeetCode Solution Approved](LeetCode_BFS/LeetCode%20Solution%20Approved.png)
+![LeetCode Solution Approved](LeetCode%20Solution%20Approved.png)
