@@ -6,4 +6,5 @@ When I encounter a land cell ("1") that has not yet been visited, I launch a BFS
 The BFS explores all connected land cells by checking their neighbors within the gridand marking them as visited.
 Each BFS run corresponds to one complete island, so I incrementmy island counter every time a new BFS runs.
 
-A screenshot of the accepted solution is located in this folder.
+## Screenshot
+![LeetCode Solution Approved](./LeetCode_Solution_Approved.png)
