@@ -5,3 +5,6 @@ I used BFS to solve this problem.
 When I encounter a land cell ("1") that has not yet been visited, I launch a BFS starting from that cell. 
 The BFS explores all connected land cells by checking their neighbors within the gridand marking them as visited.
 Each BFS run corresponds to one complete island, so I incrementmy island counter every time a new BFS runs.
+
+## Screenshot
+![LeetCode Solution Approved](LeetCode_BFS/LeetCode%20Solution%20Approved.png)
